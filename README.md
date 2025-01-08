@@ -14,5 +14,3 @@ This project analyzes a dataset of bike purchase behavior using Excel to extract
 - Regional trends show that some areas have higher bike purchase rates.
 - Customers with higher education levels and specific occupations (e.g., Professionals) show distinct purchasing patterns.
 
-
-[hhh.pdf](https://github.com/user-attachments/files/18345940/hhh.pdf)
