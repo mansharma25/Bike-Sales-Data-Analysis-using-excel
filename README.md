@@ -15,3 +15,4 @@ This project analyzes a dataset of bike purchase behavior using Excel to extract
 - Customers with higher education levels and specific occupations (e.g., Professionals) show distinct purchasing patterns.
 
 
+[hhh.pdf](https://github.com/user-attachments/files/18345940/hhh.pdf)
